@@ -41,7 +41,7 @@ To successfully run this CI/CD pipeline, the following GitHub Secrets must be co
 | `DOCKERHUB_USERNAME` | Your DockerHub username |
 | `DOCKERHUB_PASSWORD` | Your DockerHub password or Access Token |
 | `SERVER_IP` | The External IP address of your Google Cloud VM |
-| `SERVER_USERNAME` | The SSH username for your GCP VM (e.g., `phuminan`) |
+| `SERVER_USERNAME` | The SSH username for your GCP VM (e.g., `my-server`) |
 | `SERVER_SSH_KEY` | The private SSH key contents for secure server authentication |
 
 ## How It Works
